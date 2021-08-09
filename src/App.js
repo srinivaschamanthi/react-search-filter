@@ -10,7 +10,7 @@ const initialDestinationsList = [
   },
   {
     id: 2,
-    name: 'Shrubland',
+    name: 'Shrub',
     imgUrl: 'https://assets.ccbp.in/frontend/react-js/shrubland-img.png',
   },
   {
